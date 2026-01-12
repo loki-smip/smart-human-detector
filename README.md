@@ -39,7 +39,7 @@ This project uses a standard webcam and **YOLOv8** to detect humans entering or 
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/smart-human-detector.git
+    git clone https://github.com/loki-smip/smart-human-detector.git
     cd smart-human-detector
     ```
 
@@ -132,3 +132,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📄 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
